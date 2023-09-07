@@ -9,3 +9,5 @@ The goal? To unravel the secrets hidden within the job descriptions and discover
 It involves not only data collection but also data preprocessing, exploration, and visualization. We'll uncover the frequency of keywords, examine the distribution of job locations, and dissect the seniority levels that employers seek. Our toolkit includes Python, Pandas, and Plotly, allowing us to transform raw job listings into valuable insights.
 
 ## EDA Conclusions:
+
+![ss1](https://github.com/pushpakGD/DAjobs_analysis/assets/143299029/914691cb-4778-4457-9d20-52957c40540b)
